@@ -50,12 +50,12 @@ Durante a criação do eBook, utilizei os seguintes prompts no ChatGPT:
 ## 📥 Download do eBook
 O eBook finalizado está disponível no seguinte link:
 
-* 👉 Download do eBook (PDF)
+* 👉 [Download do eBook (PDF)](https://github.com/caio20538/Ebook-Spring-boot/blob/main/Spring%20Boot%20e%20a%20forja%20das%20APIs.pdf)
 
 ## 📝 Artigo no LinkedIn
 Também publiquei um artigo no LinkedIn contando um pouco da experiência com esse desafio:
 
-* 👉 Leia o artigo no LinkedIn
+* 👉 [Leia o artigo no LinkedIn](https://www.linkedin.com/posts/caio-silva-397301254_spring-boot-a-forja-das-apis-activity-7345515635667361793-GA_F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6xbOMB6N4KHaHShfYys9oNAqCPAZki-XE)
 ---
 
 💬 Feedbacks são sempre bem-vindos!
